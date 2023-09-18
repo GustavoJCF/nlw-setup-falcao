@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+[Visite o meu projeto](https://gustavojcf.github.io/nlw-setup-falcao)
 
 ## 🔖 Layout
 
